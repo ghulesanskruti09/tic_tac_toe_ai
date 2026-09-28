@@ -1,4 +1,4 @@
-#Tic-Tac-Toe AI
+Tic-Tac-Toe AI
 
 ## Description
 This project is a Tic-Tac-Toe game developed using Python.
